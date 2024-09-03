@@ -1,0 +1,89 @@
+*{
+    font-family: Barlow Semi Condensed;
+    
+}
+section{
+ background-color:hsl(210, 46%, 95%) ;   
+ 
+}
+ 
+.card-body{
+    padding: 5px;
+}
+.qoutes{
+    background-image: url("./images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+   background-position: right;
+   margin-right: 50px;
+   
+}
+
+.card{
+    border-radius: 10px;
+    background-color:hsl(263, 55%, 52%) ;  
+}
+
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.title{
+    margin-left: 20px;
+}
+.card-title{
+    color: white;
+}
+.card-subtitle{
+    color: rgb(215, 213, 213);
+}
+
+.card-text{
+    color: white;
+    font-weight: 500;
+   
+}
+
+.text2{
+    color: rgb(201, 199, 199);
+}
+
+.card2{
+    border-radius: 10px;
+    background-color:hsl(217, 19%, 35%) ;
+
+}
+
+.card-title2 , .card-text2{
+    color: white;
+}
+
+.card-subtitle2 , .text2{
+    color: rgb(209, 206, 206);
+}
+
+.card3{
+     background-color: hsl(0, 0%, 100%);
+     border-radius: 10px;
+
+}
+
+.card-title3 , .card-text3{
+color: rgb(92, 91, 91);
+}
+
+.card-subtitle3 , .text3{
+    color: gray;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.card4{
+    background-color: hsl(219, 29%, 14%);
+    border-radius: 10px;
+}
+ 
